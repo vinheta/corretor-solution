@@ -1,0 +1,6 @@
+# Material do cliente (.mogrt, fonte comercial) e pacotes gerados: nunca no repositório público
+GCs/
+lancamentos/
+# Atalhos de desenvolvimento
+.debug
+ponte.on
